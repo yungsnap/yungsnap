@@ -4,6 +4,4 @@
 ###
 ![](https://komarev.com/ghpvc/?username=snaposting&color=red)
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snaposting)](https://github.com/anuraghazra/github-readme-stats)
-###
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=snaposting&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snaposting)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snaposting&show_icons=true)
