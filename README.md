@@ -2,9 +2,10 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un entusiasta del desarrollo de software y me encanta explorar nuevas tecnologías. Aquí encontrarás algunos de mis proyectos y contribuciones. ¡Siéntete libre de explorarlos!
 
-<p align="center">
-  <img src="STG_vSnap (2).mp4" alt="ysnp" width="400" height="300">
-</p>
+<div style="text-align: center;">
+  <video src="STG_vSnap (2).mp4" controls style="width: 100%;"></video>
+</div>
+
 
 ## SocialMedia 🫀
 
