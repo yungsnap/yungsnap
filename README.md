@@ -3,7 +3,6 @@
 ¡Bienvenido/a a mi perfil de GitHub! Soy un entusiasta del desarrollo de software y me encanta explorar nuevas tecnologías. Aquí encontrarás algunos de mis proyectos y contribuciones. ¡Siéntete libre de explorarlos!
 
 
-
 ## SocialMedia 🫀
 
 - Instagram: [@yungsnap666](https://www.instagram.com/yungsnap666)
