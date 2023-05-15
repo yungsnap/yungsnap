@@ -17,7 +17,13 @@ Puedes encontrarme en las siguientes redes sociales:
 - TikTok: [@yungsnap666](https://www.tiktok.com/@yungsnap666)
 - Twitter: [@yungsnap666](https://twitter.com/yungsnap666)
 
-¡No dudes en seguirme y conectemos!
+¡No dudes en seguirme!
+
+## Mis Canales de Youtube
+
+- 🎶Musica: [@yungsnap](https://www.youtube.com/@yungsnap)
+- 👾Games: [@yungsnap666](https://www.youtube.com/@yungsnap666)
+- programación y conte' random: [@tripassnap](https://www.youtube.com/@tripassnap)
 
 ¡Gracias por visitar mi perfil!
 
