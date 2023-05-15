@@ -14,7 +14,7 @@
 Puedes encontrarme en las siguientes redes sociales:
 
 - Instagram: [@yungsnap666](https://www.instagram.com/yungsnap666)
-- TikTok: [@yungsnap666](https://www.Tiktok.com/yungsnap666)
+- TikTok: [@yungsnap666](https://www.tiktok.com/@yungsnap666)
 - Twitter: [@yungsnap666](https://twitter.com/yungsnap666)
 
 ¡No dudes en seguirme y conectemos!
