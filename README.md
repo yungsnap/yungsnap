@@ -2,6 +2,8 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un entusiasta del desarrollo de software y me encanta explorar nuevas tecnologías. Aquí encontrarás algunos de mis proyectos y contribuciones. ¡Siéntete libre de explorarlos!
 
+![ysnp](ysnpgf)
+
 
 ## SocialMedia 🫀
 
