@@ -3,7 +3,7 @@
 ¡Bienvenido/a a mi perfil de GitHub! Soy un entusiasta del desarrollo de software y me encanta explorar nuevas tecnologías. Aquí encontrarás algunos de mis proyectos y contribuciones. ¡Siéntete libre de explorarlos!
 
 <p align="center">
-  <img src="https://safebooru.org//images/2943/350a96e7f7d9591bd9b884c650ee137dfda5eafb.gif?3065544" alt"ysnp">
+  <img src="https://safebooru.org//images/2943/350a96e7f7d9591bd9b884c650ee137dfda5eafb.gif?3065544" alt"ysnp"  width="200" height="200">
 </p>
 
 
