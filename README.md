@@ -15,9 +15,9 @@
 
 ### YouTube 👁️
 
-  <a href="https://www.youtube.com/@yungsnap" target="_blank"><img src="https://img.shields.io/badge/yungsnap-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/@yungsnap666" target="_blank"><img src="https://img.shields.io/badge/yungsnap666-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://www.youtube.com/@tripassnap" target="_blank"><img src="https://img.shields.io/badge/tripassnap-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@yungsnap" target="_blank"><img src="https://img.shields.io/badge/YungSnap-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@yungsnap666" target="_blank"><img src="https://img.shields.io/badge/SNAP-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://www.youtube.com/@tripassnap" target="_blank"><img src="https://img.shields.io/badge/YunGiSnapieDie-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 ¡No dudes en seguirme!
 
