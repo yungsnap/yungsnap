@@ -17,8 +17,6 @@
 <a href="https://www.youtube.com/@yungsnap666" target="_blank"><img src="https://img.shields.io/badge/SNAP-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 
-¡No dudes en seguirme!
-
 ![](https://komarev.com/ghpvc/?username=snaposting&color=red)
 
 <h3 align="left">Languages and Tools:</h3>
