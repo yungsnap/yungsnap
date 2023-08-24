@@ -1,7 +1,5 @@
 # Hola, soy snap 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un entusiasta del desarrollo de software y me encanta explorar nuevas tecnologías. Aquí encontrarás algunos de mis proyectos y contribuciones. ¡Siéntete libre de explorarlos!
-
 <p align="center">
   <img src="https://safebooru.org//images/2943/350a96e7f7d9591bd9b884c650ee137dfda5eafb.gif?3065544" alt"ysnp"  width="200" height="200">
 </p>
@@ -15,9 +13,9 @@
 
 ### YouTube 👁️
 
-  <a href="https://www.youtube.com/@yungsnap" target="_blank"><img src="https://img.shields.io/badge/YungSnap-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@yungsnap" target="_blank"><img src="https://img.shields.io/badge/YungSnap-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/@yungsnap666" target="_blank"><img src="https://img.shields.io/badge/SNAP-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://www.youtube.com/@tripassnap" target="_blank"><img src="https://img.shields.io/badge/YunGiSnapieDie-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
 
 ¡No dudes en seguirme!
 
