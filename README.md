@@ -17,7 +17,7 @@ const about = {
         ocupation: "Engineering Software Student",
         quickbio: "Una especie de entusiasta del goryC0re-synthWave-cyberPunk-melomaniac-amateurMusician-foodLover-gamerMc/D00m-jiterClick-coder-programmer-dogLover",
     },
-    skill: {
+    skills: {
         programmingLanguage: ["JavaScript", "PHP", "Java", "C++", "C#", "Python"],
         frontDev: ["Html5", "CSS", "Bootstrap"],
         dataBases: ["MySQL", "Firebase"],
