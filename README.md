@@ -1,6 +1,6 @@
 # Hola👋, I´m Snap 
 <h2 align="center">About me</h2>
-```golang
+```js
 const about = {
     me: {
         name: "Cristofer",
