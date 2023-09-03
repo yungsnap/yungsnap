@@ -26,7 +26,7 @@ const about = {
 }
 ```
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 GitHub Pr0file Stats</b></summary>
   <br/>
 <table align="center">
   <tr>
