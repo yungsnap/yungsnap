@@ -25,7 +25,24 @@ const about = {
     }    
 }
 ```
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/yungsnap/github-readme-stats"><img alt="Yungsnap's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yungsnap&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yungsnap&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yungsnap" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
 
 
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/yungsnap"><img alt="Yungsnap's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yungsnap&custom_title=Yungsnap%yungsnap's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yungsnap&color=red)
+</details>
