@@ -1,6 +1,5 @@
 # Hola👋, S0y Snap 
-<h2 align="center">About me</h2>
-
+# ab0ut me:
 ```js
 const about = {
     me: {
