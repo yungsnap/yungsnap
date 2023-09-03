@@ -1,4 +1,4 @@
-# Hola👋, I´m Snap 
+# Hola👋, S0y Snap 
 <h2 align="center">About me</h2>
 
 ```js
