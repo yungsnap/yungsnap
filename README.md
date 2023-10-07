@@ -10,8 +10,8 @@
 ```js
 const about = {
     me: {
-        name: "Cristofer",
-        lastname: "Lolmbard",
+        name: "CRT",
+        lastname: "Lolbard0",
         nickname: "@yungsnap666",
         pronouns: "He/Him",
         ocupation: "Engineering Software Student",
