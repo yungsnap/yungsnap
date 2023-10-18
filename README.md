@@ -10,7 +10,7 @@
 ```js
 const about = {
     me: {
-        name: "CRT",
+        name: "Cristtcifer",
         lastname: "Lolbard0",
         nickname: "@yungsnap666",
         pronouns: "He/Him",
