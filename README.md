@@ -10,7 +10,9 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://64.media.tumblr.com/0343a0973aed53f1321c4871ff78c537/tumblr_peti30M54A1wyt28po1_540.gifv"  />
+<div align="center">
+  <img height="300" src="https://64.media.tumblr.com/0343a0973aed53f1321c4871ff78c537/tumblr_peti30M54A1wyt28po1_540.gifv"  />
+</div>
 
 ###
 
