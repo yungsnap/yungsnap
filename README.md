@@ -2,13 +2,15 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=yungsnap&locale=es&mode=daily&theme=merko&hide_border=true&border_radius=10" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="left" height="300" src="https://64.media.tumblr.com/0343a0973aed53f1321c4871ff78c537/tumblr_peti30M54A1wyt28po1_540.gifv"  />
+<br clear="both">
+
+<img align="right" height="300" src="https://64.media.tumblr.com/0343a0973aed53f1321c4871ff78c537/tumblr_peti30M54A1wyt28po1_540.gifv"  />
 
 ###
 
