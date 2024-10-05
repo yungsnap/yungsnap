@@ -8,9 +8,6 @@
   </a>
 </div>
 
-###
-
-<h6 align="center">↗️ S0CIAL MEDIA ↖️</h6>
 
 ###
 
