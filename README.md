@@ -1,4 +1,5 @@
 <img src="ysnp2kk.png" alt="Banner" width="100%" />
+
 ```js
 const about = {
     me: {
@@ -15,6 +16,7 @@ const about = {
     hobbies: ["Coding", "Making beats", "Gaming", "Learning new tech"]
 }
 ```
+
   <a href="https://open.spotify.com/user/31ycrjaqg2t25h2ncemofwt6qtjm" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ycrjaqg2t25h2ncemofwt6qtjm&count=5&unique=true" alt="Spotify Recently Played" width="500" />
   </a>
