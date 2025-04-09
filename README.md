@@ -12,7 +12,7 @@ const about = {
     code: ["JavaScript", "PHP", "HTML", "CSS", "SQL", "Java", "Csharp", "Python"],
     tools: {
         frameworks: ["Laravel", "React", "Node.js", "Bootstrap"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB", Firebase],
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
         versionControl: ["Git", "GitHub"]
     },
     hobbies: ["Coding", "Making beats", "Gaming", "Learning new tech"]
